@@ -1,0 +1,13 @@
+C:\Users\Liverpool\source\repos\GameGreenVsRed\GameGreenVsRed\bin\Debug\netcoreapp3.1\GameGreenVsRed.exe
+C:\Users\Liverpool\source\repos\GameGreenVsRed\GameGreenVsRed\bin\Debug\netcoreapp3.1\GameGreenVsRed.deps.json
+C:\Users\Liverpool\source\repos\GameGreenVsRed\GameGreenVsRed\bin\Debug\netcoreapp3.1\GameGreenVsRed.runtimeconfig.json
+C:\Users\Liverpool\source\repos\GameGreenVsRed\GameGreenVsRed\bin\Debug\netcoreapp3.1\GameGreenVsRed.runtimeconfig.dev.json
+C:\Users\Liverpool\source\repos\GameGreenVsRed\GameGreenVsRed\bin\Debug\netcoreapp3.1\GameGreenVsRed.dll
+C:\Users\Liverpool\source\repos\GameGreenVsRed\GameGreenVsRed\bin\Debug\netcoreapp3.1\GameGreenVsRed.pdb
+C:\Users\Liverpool\source\repos\GameGreenVsRed\GameGreenVsRed\obj\Debug\netcoreapp3.1\GameGreenVsRed.csprojAssemblyReference.cache
+C:\Users\Liverpool\source\repos\GameGreenVsRed\GameGreenVsRed\obj\Debug\netcoreapp3.1\GameGreenVsRed.csproj.CoreCompileInputs.cache
+C:\Users\Liverpool\source\repos\GameGreenVsRed\GameGreenVsRed\obj\Debug\netcoreapp3.1\GameGreenVsRed.AssemblyInfoInputs.cache
+C:\Users\Liverpool\source\repos\GameGreenVsRed\GameGreenVsRed\obj\Debug\netcoreapp3.1\GameGreenVsRed.AssemblyInfo.cs
+C:\Users\Liverpool\source\repos\GameGreenVsRed\GameGreenVsRed\obj\Debug\netcoreapp3.1\GameGreenVsRed.dll
+C:\Users\Liverpool\source\repos\GameGreenVsRed\GameGreenVsRed\obj\Debug\netcoreapp3.1\GameGreenVsRed.pdb
+C:\Users\Liverpool\source\repos\GameGreenVsRed\GameGreenVsRed\obj\Debug\netcoreapp3.1\GameGreenVsRed.genruntimeconfig.cache
